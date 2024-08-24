@@ -12,5 +12,7 @@ EXPLANATION:
 3.Third dashboard represent the TOTAL NUMBER OF OWNERS.This dashboard represent the PIE CHART.In this we represent the seller type,sum of number of owners and names, we use filter as brand names.
 <br/>
 4.Fourth dashboard represent the SELLING PRICE.This dashboard represent the LINE CHART.In this we represent the car brands on x axis,selling price on y axisand w use brands as filter.
+<br>
 email:paravadasivasai@gmail.com
+<br>
 linkedin:www.linkedin.com/in/paravada-sivasai-12258224b
